@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Pedro Correia",
+  "photo": "https://avatars.githubusercontent.com/u/116949573?s=400&u=adfc3e610d92e89a25c218bdef26f6f9b8bba1ea&v=4",
+  "job": "BSc in Aerospace Engineer @ Instituto Superior Técnico",
+  "location": "Lisbon, Portugal",
+  "phone": "(351) 916895853",
+  "email": "pedrojdcorreia2003@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -41,11 +41,11 @@
     ]
   },
   "languages": [
-    "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Português",
+    "Inglês (Avançado)",
+    "Francês (Iniciante)"
   ],
+  
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
